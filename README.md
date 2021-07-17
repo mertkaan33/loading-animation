@@ -1,2 +1,0 @@
-# loading-animation
-loading-animation
